@@ -493,7 +493,7 @@ ul {
 .reviews-google-embed iframe {
   display: block;
   width: 100%;
-  height: 340px;
+  height: 420px;
   border: 0;
 }
 
@@ -798,7 +798,7 @@ ul {
   }
 
   .reviews-google-embed iframe {
-    height: 280px;
+    height: 320px;
   }
 
   .footer-links ul {
@@ -825,6 +825,6 @@ ul {
   }
 
   .reviews-google-embed iframe {
-    height: 240px;
+    height: 280px;
   }
 }
